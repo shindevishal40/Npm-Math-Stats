@@ -1,0 +1,30 @@
+{
+  "name": "npm-math-stats",
+  "version": "1.0.0",
+  "description": "Node ",
+  "main": "./lib/index.js",
+  "scripts": {
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shindevishal40/npm-math-stats.git"
+  },
+  "keywords": [
+    "mathematics",
+    "statistics",
+	"functions",
+    "module",
+    "node",
+    "javascript"
+  ],
+  "author": "Vishal Shinde <shindevishal40@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shindevishal40/npm-math-stats.git/issues"
+  },
+  "homepage": "https://github.com/shindevishal40/npm-math-stats.git#readme"
+}
